@@ -1,3 +1,5 @@
+![Kruskal_stress](https://img.shields.io/badge/metrics-Kruskal__stress-brightgreen)
+
 # Kruskal_Stress_on_MDS
 
 This Matlab function file is to calculate the **Kruskal [1964] Stress** parameter, which is used to evaluate the effect of projection/mapping/visualization.
